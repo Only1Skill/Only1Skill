@@ -7,7 +7,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm Leonid Platonov, Python Backend Developer ☕️
+  Hi, I'm Leonid Platonov, Backend Developer ☕️
   <br>
   <br>
   🔬 I'am currently studying software engineering at the Russian Technological University - RTU MIREA
