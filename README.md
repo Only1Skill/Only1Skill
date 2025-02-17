@@ -47,11 +47,6 @@
 
 <hr>
 
-<h2 align="center">⚡️ Stats ⚡️</h2>
-<br>
-<p align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Only1Skill&hide=powershell,Mathematica,Ruby,Objective-C,Objective-C%2B%2B,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"  width="38%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Only1Skill&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+
 
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Only1Skill.Only1Skill">
